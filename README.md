@@ -27,3 +27,8 @@ It is designed for **learning and teaching purposes**, demonstrating how to inte
 - [Django REST Framework](https://www.django-rest-framework.org/)
 - [SQLite3](https://www.sqlite.org/)
 
+---
+
+## 🏠 App Homepage
+
+![App Homepage](./screenshots/page.png)
